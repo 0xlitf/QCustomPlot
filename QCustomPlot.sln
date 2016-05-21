@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "interaction-example", "examples\interactions\interaction-example.vcxproj", "{EC48FD29-C04B-3145-AB15-5127900C827E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plot-examples", "examples\plots\plot-examples.vcxproj", "{F214FA56-831C-3DC0-85AF-C0BC1731C725}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scrollbar-axis-range-control", "examples\scrollbar-axis-range-control\scrollbar-axis-range-control.vcxproj", "{23AF3603-C1C5-3811-8D36-8F90A88431A2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "text-document-integration", "examples\text-document-integration\text-document-integration.vcxproj", "{7DDC8214-EAA1-37BA-B790-D3A74329E917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC48FD29-C04B-3145-AB15-5127900C827E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC48FD29-C04B-3145-AB15-5127900C827E}.Debug|Win32.Build.0 = Debug|Win32
+		{EC48FD29-C04B-3145-AB15-5127900C827E}.Release|Win32.ActiveCfg = Release|Win32
+		{EC48FD29-C04B-3145-AB15-5127900C827E}.Release|Win32.Build.0 = Release|Win32
+		{F214FA56-831C-3DC0-85AF-C0BC1731C725}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F214FA56-831C-3DC0-85AF-C0BC1731C725}.Debug|Win32.Build.0 = Debug|Win32
+		{F214FA56-831C-3DC0-85AF-C0BC1731C725}.Release|Win32.ActiveCfg = Release|Win32
+		{F214FA56-831C-3DC0-85AF-C0BC1731C725}.Release|Win32.Build.0 = Release|Win32
+		{23AF3603-C1C5-3811-8D36-8F90A88431A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23AF3603-C1C5-3811-8D36-8F90A88431A2}.Debug|Win32.Build.0 = Debug|Win32
+		{23AF3603-C1C5-3811-8D36-8F90A88431A2}.Release|Win32.ActiveCfg = Release|Win32
+		{23AF3603-C1C5-3811-8D36-8F90A88431A2}.Release|Win32.Build.0 = Release|Win32
+		{7DDC8214-EAA1-37BA-B790-D3A74329E917}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7DDC8214-EAA1-37BA-B790-D3A74329E917}.Debug|Win32.Build.0 = Debug|Win32
+		{7DDC8214-EAA1-37BA-B790-D3A74329E917}.Release|Win32.ActiveCfg = Release|Win32
+		{7DDC8214-EAA1-37BA-B790-D3A74329E917}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
